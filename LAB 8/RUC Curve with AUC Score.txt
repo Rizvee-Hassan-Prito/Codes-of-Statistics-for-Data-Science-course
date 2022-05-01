@@ -1,0 +1,5 @@
+
+sklearn.preprocessing.label_binarize()- Binarize labels in a one-vs-all fashion.
+Several regression and binary classification algorithms are available in scikit-learn. A simple way to extend these algorithms to the multi-class classification case is to use the so-called one-vs-all scheme.
+This function makes it possible to compute this transformation for a fixed set of class labels known ahead of time.
+
